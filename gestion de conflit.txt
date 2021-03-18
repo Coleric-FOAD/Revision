@@ -7,3 +7,7 @@ Modifier en Local sans PUSH/PULL
 Commit en local => conflit => résoudre le conflit
 
 
+Nouveau test de conflit
+
+
+
