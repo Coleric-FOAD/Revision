@@ -6,4 +6,4 @@ Modifier en Local sans PUSH/PULL
 
 Commit en local => conflit => résoudre le conflit
 
-
+Gestion de conflit pull request
